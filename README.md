@@ -1,5 +1,8 @@
 # DCT_news
 
+政大數位內容學程畢製
+
+
 To-Do List:
 
 verify blockState & blockTrigger logic
